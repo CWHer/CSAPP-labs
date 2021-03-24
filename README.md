@@ -13,7 +13,7 @@
 - [x] Data Lab 
 
 - [x] Bomb Lab (部分)
-- [ ] Attack Lab
+- [x] Attack Lab
 - [ ] Buffer Lab
 - [ ] Arch Lab
 - [ ] Arch Lab (Y86)
