@@ -14,9 +14,7 @@
 
 - [x] Bomb Lab (部分)
 - [x] Attack Lab
-- [ ] Buffer Lab
 - [ ] Arch Lab
-- [ ] Arch Lab (Y86)
 - [ ] Cache Lab
 - [ ] Performance Lab
 - [ ] Shell Lab
