@@ -15,7 +15,7 @@
 - [x] Bomb Lab (部分)
 - [x] Attack Lab
 - [ ] Arch Lab
-- [ ] Cache Lab
+- [x] Cache Lab (部分)
 - [ ] Performance Lab
 - [ ] Shell Lab
 - [ ] Malloc Lab
